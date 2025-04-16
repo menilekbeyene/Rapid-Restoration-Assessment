@@ -1,0 +1,26 @@
+LU_id,Landuse,Imperviouslanduse,TIMP,Cat.IMP
+1,Golf Course,Golf Course,0,0
+2,Mixed Commercial Entertainment,Commercial,95,3
+3,Lacustrine,Water,0,0
+4,Recreational/Open Space,Park,10,1
+5,Estate Residential,Estate Residential,40,2
+6,Industrial,Industrial,95,3
+7,Forest,Natural Cover,0,0
+8,Airport,Airport,45,2
+9,Medium Density Residential,Residential LowMed,60,2
+10,Rural Residential,Rural Residential,20,1
+11,Successional Forest,Natural Cover,0,0
+12,Landfill, Landfill, NA,0
+13,Roads,Road (ROW),90,3
+14,Meadow,Natural Cover,0,0
+15,Aggregate Extraction,Industrial,95,3
+16,Railway,Transportation,60,2
+17,Commercial,Commercial,95,3
+18,High Density Residential,Residential High,80,3
+19,Institutional,Institutional,80,3
+20,Riverine,Water,0,0
+21,Cemetery,Cemetery,35,1
+22,Wetland,Natural Cover,0,0
+23,Beach/Bluff,Natural Cover,0,0
+24,Agriculture,Farm,0,0
+25,Vacant Land,Vacant Land,10,1

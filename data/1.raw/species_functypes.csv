@@ -1,0 +1,204 @@
+Species Code,Common Name,Scientific_name,Genus,Species,Functional Group,Coefficient of Wetness ,Soil Moisture,Sun Exposure
+acerub,Red Maple,Acer rubrum,Acer,rubrum,deciduous tree,0,M,Full Sun-partial shade
+AceSac...6,Silver Maple,Acer saccharinum,Acer,saccharinum,deciduous tree,-3,WMI,Full Sun-partial shade
+AceSac...7,Sugar Maple,Acer saccharum ssp. saccharum,Acer,saccharum ssp. saccharum,deciduous tree,3,I,Full sun-shade
+AceSac...8,Black Maple,Acer saccharum ssp. nigrum (A. nigrum),Acer,saccharum ssp. nigrum (A. nigrum),deciduous tree,3,MI,Full sun - partial shade
+alninc,Speckled Alder,Alnus incana,Alnus,incana,deciduous shrub,-5,WM,Full sun
+amearb,Downy Serviceberry,Amelanchier arborea,Amelanchier,arborea,deciduous shrub,3,MID,Full sun-Partial Shade
+amelae,Smooth Serviceberry,Amelanchier laevis,Amelanchier,laevis,deciduous shrub,5,MID,Full sun - Partial Shade
+aroarb,Red Chokeberry,Aronia arbutifolia,Aronia,arbutifolia,deciduous shrub,-5,,
+aromel,Black Chokeberry,Aronia melanocarpa,Aronia,melanocarpa,deciduous shrub,-3,WMID,Full Sun-Partial Shade
+betall,Yellow Birch,Betula alleghaniensis,Betula,alleghaniensis,deciduous tree,0,MI,partial shade
+betpap,Paper Birch,Betula papyrifera,Betula,papyrifera,deciduous tree,2,MID,Full Sun
+betpop,Grey Birch,Betula populifolia,Betula,populifolia,deciduous tree,0,WID,Full Sun
+carcar,Musclewood/Blue Beech,Carpinus caroliniana,Carpinus,caroliniana,deciduous tree,0,M,partial shade - shade
+carcor,Bitternut Hickory,Carya cordiformis,Carya,cordiformis,deciduous tree,0,MI,Full sun - partial shade
+carova,Shagbark Hickory,Carya ovata,Carya,ovata,deciduous tree,3,MI,Full Sun-partial shade
+celocc,Hackberry,Celtis occidentalis,Celtis,occidentalis,deciduous tree,1,MID,Full sun - partial shade
+cepocc,Buttonbush,Cephalanthus occidentalis,Cephalanthus,occidentalis,deciduous shrub,-5,WM,Full Sun
+coralt,Alternate Leaved Dogwood,Cornus alternifolia,Cornus,alternifolia,deciduous shrub,3,M,Partial Shade - Shade 
+corame,American Hazelnut,Corylus americana,Corylus,americana,deciduous shrub,4,ID,Full sun-Partial Shade
+coramo,Silky Dogwood,Cornus amomum (aka C. obliqua),Cornus,amomum (aka C. obliqua),deciduous shrub,-4,WM,Full Sun
+corrac,Gray Dogwood,Cornus racemosa,Cornus,racemosa,deciduous shrub,-2,MID,Full sun-Partial Shade
+corser,Red Osier Dogwood,Cornus sericea,Cornus,sericea,deciduous shrub,-3,WM,Full Sun
+dasfru,Shrubby Cinquefoil,Dasiphora fruticosa,Dasiphora,fruticosa,deciduous shrub,-3,WID,Full Sun
+dielon,Bush Honeysuckle,Diervilla lonicera,Diervilla,lonicera,deciduous shrub,5,WMI,
+elacom,Silverberry,Elaegnus commutata Bernhardi ex Rydberg,Elaegnus,commutata Bernhardi ex Rydberg,deciduous shrub,4,ID,Full Sun
+faggra,American Beech,Fagus grandifolia,Fagus,grandifolia,deciduous tree,3,MI,partial shade - shade
+hyppro,Shrubby St. John's Wort,Hypericum prolificum (H. spathulatum),Hypericum,prolificum (H. spathulatum),deciduous shrub,3,WMID,Full Sun
+ilever,Winterberry Holly,Ilex verticillata,Ilex,verticillata,deciduous shrub,-4,WM,Full sun-Partial Shade
+jugcin,Butternut ,Juglans cinerea,Juglans,cinerea,deciduous tree,2,MI,Full Sun-partial shade
+jugnig,Black Walnut,Juglans nigra,Juglans,nigra,deciduous tree,3,MI,Full Sun-partial shade
+larlar,Tamarack,Larix laricina,Larix,laricina,coniferous tree,-3,WM,Full sun
+ostvir,Hophornbeam/Ironwood,Ostrya virginiana,Ostrya,virginiana,deciduous tree,4,ID,partial shade - shade
+phyopu,Ninebark,Physocarpus opulifolius,Physocarpus,opulifolius,deciduous shrub,-2,WMID,
+picgla,White Spruce,Picea glauca,Picea,glauca,coniferous tree,3,MI,Full sun - partial shade
+pinstr,White Pine,Pinus strobus,Pinus,strobus,coniferous tree,3,MID,full sun-partial shade
+plaocc,Sycamore,Platanus occidentalis,Platanus,occidentalis,deciduous tree,-3,M,Full sun - partial shade
+popbal,Balsam Poplar,Populus balsamifera,Populus,balsamifera,deciduous shrub,-3,MI,Full Sun
+popdel,Eastern Cottonwood,Populus deltoides,Populus,deltoides,deciduous tree,-1,MI,Full Sun
+popgra,Large-tooth Aspen,Populus grandidentata,Populus,grandidentata,deciduous tree,3,MI,Full Sun
+poptre,Trembling Aspen,Populus tremuloides,Populus,tremuloides,deciduous tree,0,M,Full Sun
+prupen,Pin Cherry,Prunus pensylvanica,Prunus,pensylvanica,deciduous shrub,4,MID,Full Sun
+prupum,Sandcherry,Prunus pumila,Prunus,pumila,deciduous shrub,5,WID,Full Sun
+pruser,Black Cherry,Prunus serotina,Prunus,serotina,deciduous tree,3,MI,Full Sun-partial shade
+pruvir,Chokecherry,Prunus virginiana,Prunus,virginiana,deciduous shrub,1,MI,Full sun-Partial Shade
+quealb,White Oak,Quercus alba,Quercus,alba,deciduous tree,3,ID,Full sun - partial shade
+quebic,Swamp White Oak,Quercus bicolor,Quercus,bicolor,deciduous tree,-3,WM,Full sun - partial shade
+quemac,Bur Oak,Quercus macrocarpa,Quercus,macrocarpa,deciduous tree,1,MID,Full sun
+querub,Red Oak,Quercus rubra,Quercus,rubra,deciduous tree,3,MID,Full sun - partial shade
+rhuaro,Fragrant Sumac,Rhus aromatica,Rhus,aromatica,deciduous shrub,5,ID,Full Sun
+rhugla,Smooth Sumac,Rhus glabra,Rhus,glabra,deciduous shrub,5,ID,
+rhutyp,Staghorn Sumac,Rhus typhina,Rhus,typhina,deciduous shrub,5,ID,Full Sun
+roscar,Pasture Rose,Rosa carolina,Rosa,carolina,deciduous shrub,4,ID,Full Sun
+rospal,Swamp Rose,Rosa palustris,Rosa,palustris,deciduous shrub,-5,WM,Full Sun
+rubida,Wild Red Raspberry,Rubus idaeus,Rubus,idaeus,deciduous shrub,-2,M,Full Sun
+rubodo,Flowering Raspberry,Rubus odoratus,Rubus,odoratus,deciduous shrub,5,M,
+salamy,Peach-leaf Willow,Salix amygdaloides,Salix,amygdaloides,deciduous shrub,-3,WM,Full Sun
+salbeb,Bebb's Willow (aka Beaked Willow),Salix bebbiana,Salix,bebbiana,deciduous shrub,-4,WM,Full Sun
+saldis,Pussy Willow,Salix discolor,Salix,discolor,deciduous shrub,-3,WM,Full Sun
+saleri,River/Heart Leaved/Wooly Willow,Salix eriocephala,Salix,eriocephala,deciduous shrub,-3,WM,Full Sun
+salexi,Sandbar Willow,Salix exigua,Salix,exigua,deciduous shrub,-5,WM ,Full Sun
+salluc,Shining Willow,Salix lucida,Salix,lucida,deciduous shrub,-4,WM,Full Sun
+samcan,Common Elderberry,Sambucus canadensis,Sambucus,canadensis,deciduous shrub,-2,WM,Full sun-Partial Shade
+samrac...207,Red Elderberry,Sambucus racemosa (aka S. pubens),Sambucus,racemosa (aka S. pubens),deciduous shrub,2,MI,Partial Shade - Shade 
+spialb,Narrow-leaved Meadowsweet,Spiraea alba,Spiraea,alba,deciduous shrub,-4,WM,Full Sun
+symalb,Snowberry,Symphoricarpos albus,Symphoricarpos,albus,deciduous shrub,4,ID,Full Sun-partial shade
+thuocc,Eastern White Cedar,Thuja occidentalis,Thuja,occidentalis,coniferous tree,-3,WMI,full sun-partial shade
+tilame,Basswood,Tilia americana,Tilia,americana,deciduous tree,3,MI,Full Sun-partial shade
+tsucan,Eastern Hemlock,Tsuga canadensis,Tsuga,canadensis,coniferous tree,3,MI,partial shade - shade
+ulmame,American/White Elm,Ulmus americana,Ulmus,americana,deciduous tree,-2,MI,Full sun - partial shade
+ulmtho,Rock Elm,Ulmus thomasii,Ulmus,thomasii,deciduous tree,-1,I,Full Sun-partial shade
+vibden,Smooth Arrowwood,Viburnum dentatum var. lucidum (aka V. recognitum),Viburnum,dentatum var. lucidum (aka V. recognitum),deciduous shrub,-2,,
+viblen,Nannyberry,Viburnum lentago,Viburnum,lentago,deciduous shrub,-1,WM,Full sun-Partial Shade
+vibopu,(American) Highbush Cranberry,Viburnum opulus var. americanum (aka V. trilobum),Viburnum,opulus var. americanum (aka V. trilobum),deciduous shrub,-3,WM,Full sun-Partial Shade
+vibraf,Downy Arrowwood,Viburnum,rafinesquianum,deciduous shrub,5,ID,Full sun-Partial Shade,
+AbiBal,BALSAM FIR,Abies balsamea,Abies,balsamea,Nt Tree,-3,,
+acepen,STRIPED MAPLE,Acer pensylvanicum,Acer,pensylvanicum,Nt Tree,3,,
+acespi,MOUNTAIN MAPLE,Acer spicatum,Acer,spicatum,Nt Tree,3,,
+achmil,YARROW,Achillea millefolium,Achillea,millefolium,Nt P-Forb,3,,
+aganep,YELLOW GIANT HYSSOP,Agastache nepetoides,Agastache,nepetoides,Nt P-Forb,3,,
+alipla,WATER-PLANTAIN,Alisma plantago-aquatica,Alisma,plantago-aquatica,Nt P-Forb,-5,,
+allcer,NODDING WILD ONION,Allium cernuum,Allium,cernuum,Nt P-Forb,5,,
+anamar,PEARLY EVERLASTING,Anaphalis margaritacea,Anaphalis,margaritacea,Nt P-Forb,5,,
+andger,BIG BLUESTEM,Andropogon gerardii,Andropogon,gerardii,Nt P-Grass,1,,
+anecan,CANADA ANEMONE,Anemone canadensis,Anemone,canadensis,Nt P-Forb,-3,,
+anecyl,THIMBLEWEED,Anemone cylindrica,Anemone,cylindrica,Nt P-Forb,5,,
+anevir,THIMBLEWEED,Anemone virginiana,Anemone,virginiana,Nt P-Forb,5,,
+apoand,SPREADING DOGBANE,Apocynum androsaemifolium,Apocynum,androsaemifolium,Nt P-Forb,5,,
+aqucan,WILD COLUMBINE,Aquilegia canadensis,Aquilegia,canadensis,Nt P-Forb,1,,
+aritri,JACK-IN-THE-PULPIT,Arisaema triphyllum,Arisaema,triphyllum,Nt P-Forb,-2,,
+asacan,WILD-GINGER,Asarum canadense,Asarum,canadense,Nt P-Forb,5,,
+ascinc,SWAMP MILKWEED,Asclepias incarnata,Asclepias,incarnata,Nt P-Forb,-5,,
+ascsul,SULLIVANT’S MILKWEED,Asclepias sullivantii,Asclepias,sullivantii,Nt P-Forb,5,,
+ascsyr,COMMON MILKWEED,Asclepias syriaca,Asclepias,syriaca,Nt P-Forb,5,,
+asctub,BUTTERFLY-WEED,Asclepias tuberosa,Asclepias,tuberosa,Nt P-Forb,5,,
+athfil,LADY FERN,Athyrium filix-femina,Athyrium,filix-femina,Nt Fern,0,,
+bolflu,BULRUSH,Bolboschoenus fluviatilis (Scirpus f.),Bolboschoenus,fluviatilis (Scirpus f.),Nt P-Sedge,-5,,
+boucur,SIDE-OATS GRAMA,Bouteloua curtipendula,Bouteloua,curtipendula,Nt P-Grass,5,,
+calcan,BLUE-JOINT GRASS,Calamagrostis canadensis,Calamagrostis,canadensis,Nt P-Grass,-5,,
+camrot,HAREBELL,Campanula rotundifolia,Campanula,rotundifolia,Nt P-Forb,1,,
+carcri,WELTED PLUMELESS THISTLE,CARDUUS CRISPUS,CARDUUS,CRISPUS,Ad B-Forb,5,,
+ceaame,NEW JERSEY-TEA,Ceanothus americanus,Ceanothus,americanus,Nt Shrub,5,,
+cercan,REDBUD,Cercis canadensis,Cercis,canadensis,Nt Tree,3,,
+cirdis,PASTURE-THISTLE,Cirsium discolor,Cirsium,discolor,Nt B-Forb,5,,
+clevir,VIRGIN’S BOWER,Clematis virginiana,Clematis,virginiana,Nt W-Vine,0,,
+corcor,BEAKED HAZELNUT,Corylus cornuta,Corylus,cornuta,Nt Shrub,5,,
+corlan,SAND COREOPSIS,Coreopsis lanceolata,Coreopsis,lanceolata,Nt P-Forb,3,,
+cramol,HAWTHORN,Crataegus mollis,Crataegus,mollis,Nt Tree,-2,,
+desces,HAIR GRASS,Deschampsia cespitosa,Deschampsia,cespitosa,Nt P-Grass,-4,,
+echpal,PALE CONEFLOWER,ECHINACEA PALLIDA,ECHINACEA,PALLIDA,Ad P-Forb,5,,
+elycan,CANADA WILD-RYE,Elymus canadensis,Elymus,canadensis,Nt P-Grass,1,,
+elyvir,VIRGINIA WILD-RYE,Elymus virginicus,Elymus,virginicus,Nt P-Grass,-2,,
+epiang,FIREWEED,Epilobium angustifolium,Epilobium,angustifolium,Nt P-Forb,0,,
+equhye,SCOURING RUSH,Equisetum hyemale,Equisetum,hyemale,Nt Fern Ally,-2,,
+eriann,ANNUAL FLEABANE,Erigeron annuus,Erigeron,annuus,Nt B-Forb,1,,
+eupper,COMMON BONESET,Eupatorium perfoliatum,Eupatorium,perfoliatum,Nt P-Forb,-4,,
+fraves,WOODLAND STRAWBERRY,Fragaria vesca,Fragaria,vesca,Nt P-Forb,4,,
+fravir,WILD STRAWBERRY,Fragaria virginiana,Fragaria,virginiana,Nt P-Forb,1,,
+genand,BOTTLE GENTIAN,Gentiana andrewsii,Gentiana,andrewsii,Nt P-Forb,-3,,
+gencri,FRINGED GENTIAN,Gentianopsis crinita (Gentiana c.),Gentianopsis,crinita (Gentiana c.),Nt A-Forb,-4,,
+geutri,PRAIRIE AVENS,Geum triflorum,Geum,triflorum,Nt P-Forb,4,,
+gymdio,KENTUCKY COFFEE TREE,Gymnocladus dioicus,Gymnocladus,dioicus,Nt Tree,5,,
+hamvir,WITCH-HAZEL,Hamamelis virginiana,Hamamelis,virginiana,Nt Shrub,3,,
+helaut,SNEEZEWEED,Helenium autumnale,Helenium,autumnale,Nt P-Forb,-4,,
+heldiv,WOODLAND SUNFLOWER,Helianthus divaricatus,Helianthus,divaricatus,Nt P-Forb,5,,
+helgig,TALL SUNFLOWER,Helianthus giganteus,Helianthus,giganteus,Nt P-Forb,-3,,
+helhel,FALSE SUNFLOWER,Heliopsis helianthoides,Heliopsis,helianthoides,Nt P-Forb,5,,
+helstr,PALE-LEAVED SUNFLOWER,Helianthus strumosus,Helianthus,strumosus,Nt P-Forb,5,,
+hibmos,SWAMP ROSE MALLOW,Hibiscus moscheutos (H. palustris),Hibiscus,moscheutos (H. palustris),Nt P-Forb,-5,,
+houlon,LONG-LEAVED BLUETS,Houstonia longifolia,Houstonia,longifolia,Nt P-Forb,5,,
+hypkal,KALM’S ST. JOHN’S-WORT,Hypericum kalmianum,Hypericum,kalmianum,Nt Shrub,-2,,
+iripse,YELLOW FLAG,IRIS PSEUDACORUS,IRIS,PSEUDACORUS,Ad P-Forb,-5,,
+iriver,WILD BLUE FLAG,Iris versicolor,Iris,versicolor,Nt P-Forb,-5,,
+juneff,SOFT-STEMMED RUSH,Juncus effusus,Juncus,effusus,Nt P-Forb,-5,,
+junten,PATH RUSH,Juncus tenuis,Juncus,tenuis,Nt P-Forb,0,,
+junvir,RED-CEDAR,Juniperus virginiana,Juniperus,virginiana,Nt Tree,3,,
+lescap,ROUND-HEADED BUSH-CLOVER,Lespedeza capitata,Lespedeza,capitata,Nt P-Forb,3,,
+liacyl,CYLINDRICAL BLAZING STAR,Liatris cylindracea,Liatris,cylindracea,Nt P-Forb,5,,
+liaspi,MARSH BLAZING STAR,Liatris spicata,Liatris,spicata,Nt P-Forb,0,,
+lilmic,MICHIGAN LILY,Lilium michiganense,Lilium,michiganense,Nt P-Forb,-1,,
+linben,SPICEBUSH,Lindera benzoin,Lindera,benzoin,Nt Shrub,-2,,
+lirtul,TULIP TREE,Liriodendron tulipifera,Liriodendron,tulipifera,Nt Tree,2,,
+lobcar,CARDINAL FLOWER,Lobelia cardinalis,Lobelia,cardinalis,Nt P-Forb,-5,,
+lobsip,GREAT BLUE LOBELIA,Lobelia siphilitica,Lobelia,siphilitica,Nt P-Forb,-4,,
+lobspi,PALE SPIKED LOBELIA,Lobelia spicata,Lobelia,spicata,Nt P-Forb,0,,
+loncan,AMERICAN FLY HONEYSUCKLE,Lonicera canadensis,Lonicera,canadensis,Nt Shrub,3,,
+lupper,WILD LUPINE,Lupinus perennis,Lupinus,perennis,Nt P-Forb,5,,
+mimrin,MONKEY-FLOWER,Mimulus ringens,Mimulus,ringens,Nt P-Forb,-5,,
+mondid,OSWEGO-TEA,Monarda didyma,Monarda,didyma,Nt P-Forb,3,,
+monfis,WILD BERGAMOT,Monarda fistulosa,Monarda,fistulosa,Nt P-Forb,3,,
+myrgal,SWEET GALE,Myrica gale,Myrica,gale,Nt Shrub,-5,,
+nymodo,SWEET-SCENTED WATERLILY,Nymphaea odorata (N. tuberosa),Nymphaea,odorata (N. tuberosa),Nt P-Forb,-5,,
+oenbie,COMMON EVENING-PRIMROSE,Oenothera biennis,Oenothera,biennis,Nt B-Forb,3,,
+osmcin,CINNAMON FERN,Osmunda cinnamomea,Osmunda,cinnamomea,Nt Fern,-3,,
+panvir,SWITCH GRASS,Panicum virgatum,Panicum,virgatum,Nt P-Grass,-1,,
+pendig,FOXGLOVE BEARD-TONGUE,Penstemon digitalis,Penstemon,digitalis,Nt P-Forb,1,,
+penhir,HAIRY BEARD-TONGUE,Penstemon hirsutus,Penstemon,hirsutus,Nt P-Forb,5,,
+pinres,RED PINE,Pinus resinosa,Pinus,resinosa,Nt Tree,3,,
+polacr,CHRISTMAS FERN,Polystichum acrostichoides,Polystichum,acrostichoides,Nt Fern,5,,
+poncor,PICKEREL WEED,Pontederia cordata,Pontederia,cordata,Nt P-Forb,-5,,
+potans,SILVERWEED,Potentilla anserina,Potentilla,anserina,Nt P-Forb,-4,,
+potfru,SHRUBBY CINQUEFOIL,Potentilla fruticosa,Potentilla,fruticosa,Nt Shrub,-3,,
+potsim,OLD-FIELD CINQUEFOIL,Potentilla simplex,Potentilla,simplex,Nt P-Forb,4,,
+pycten,SLENDER MOUNTAIN MINT,Pycnanthemum tenuifolium,Pycnanthemum,tenuifolium,Nt P-Forb,0,,
+pycvir,COMMON MOUNTAIN MINT,Pycnanthemum virginianum,Pycnanthemum,virginianum,Nt P-Forb,-4,,
+ratpin,YELLOW CONEFLOWER,Ratibida pinnata,Ratibida,pinnata,Nt P-Forb,5,,
+ribame,WILD BLACK CURRANT,Ribes americanum,Ribes,americanum,Nt Shrub,-3,,
+ribcyn,PRICKLY or WILD GOOSEBERRY,Ribes cynosbati,Ribes,cynosbati,Nt Shrub,5,,
+rosaci,WILD ROSE,Rosa acicularis,Rosa,acicularis,Nt Shrub,3,,
+rosbla,WILD ROSE,Rosa blanda,Rosa,blanda,Nt Shrub,3,,
+ruball,COMMON BLACKBERRY,Rubus allegheniensis,Rubus,allegheniensis,Nt Shrub,2,,
+rubocc,BLACK RASPBERRY,Rubus occidentalis,Rubus,occidentalis,Nt Shrub,5,,
+rudhir,BLACK-EYED SUSAN,Rudbeckia hirta,Rudbeckia,hirta,Nt P-Forb,3,,
+rudlac,CUT-LEAVED CONEFLOWER,Rudbeckia laciniata,Rudbeckia,laciniata,Nt P-Forb,-4,,
+saglat,COMMON ARROWHEAD,Sagittaria latifolia,Sagittaria,latifolia,Nt P-Forb,-5,,
+salnig,BLACK WILLOW,Salix nigra,Salix,nigra,Nt Tree,-5,,
+salpet,SLENDER WILLOW,Salix petiolaris,Salix,petiolaris,Nt Shrub,-4,,
+schame,OLNEY’S BULRUSH,Schoenoplectus americanus (Scirpus olneyi),Schoenoplectus,americanus (Scirpus olneyi),Nt P-Sedge,-5,,
+sciatr,BULRUSH,Scirpus atrovirens,Scirpus,atrovirens,Nt P-Sedge,-5,,
+scicyp,WOOL-GRASS,Scirpus cyperinus,Scirpus,cyperinus,Nt P-Sedge,-5,,
+shecan,SOAPBERRY,Shepherdia canadensis,Shepherdia,canadensis,Nt Shrub,5,,
+silper,CUP PLANT,Silphium perfoliatum,Silphium,perfoliatum,Nt P-Forb,-2,,
+sismon,MOUNTAIN BLUE-EYED-GRASS,Sisyrinchium montanum,Sisyrinchium,montanum,Nt P-Forb,-1,,
+solcae,BLUE-STEMMED GOLDENROD,Solidago caesia,Solidago,caesia,Nt P-Forb,3,,
+solcan,CANADA GOLDENROD,Solidago canadensis,Solidago,canadensis,Nt P-Forb,3,,
+solfle,BROAD-LEAVED GOLDENROD,Solidago flexicaulis,Solidago,flexicaulis,Nt P-Forb,3,,
+soljun,EARLY GOLDENROD,Solidago juncea,Solidago,juncea,Nt P-Forb,5,,
+solnem,OLD-FIELD GOLDENROD,Solidago nemoralis,Solidago,nemoralis,Nt P-Forb,5,,
+solpta,UPLAND WHITE GOLDENROD,Solidago ptarmicoides,Solidago,ptarmicoides,Nt P-Forb,5,,
+solrig,STIFF GOLDENROD,Solidago rigida,Solidago,rigida,Nt P-Forb,4,,
+sornut,INDIAN GRASS,Sorghastrum nutans,Sorghastrum,nutans,Nt P-Grass,2,,
+spaeur,COMMON BUR-REED,Sparganium eurycarpum,Sparganium,eurycarpum,Nt P-Forb,-5,,
+spocry,SAND DROPSEED,Sporobolus cryptandrus,Sporobolus,cryptandrus,Nt P-Grass,4,,
+spohet,PRAIRIE DROPSEED,Sporobolus heterolepis,Sporobolus,heterolepis,Nt P-Grass,4,,
+typlat,BROAD-LEAVED CAT-TAIL,Typha latifolia,Typha,latifolia,Nt P-Forb,-5,,
+ulmrub,SLIPPERY ELM,Ulmus rubra,Ulmus,rubra,Nt Tree,0,,
+vergig,TALL IRONWEED,Vernonia gigantea (V. altissima),Vernonia,gigantea (V. altissima),Nt P-Forb,0,,
+verhas,BLUE VERVAIN,Verbena hastata,Verbena,hastata,Nt P-Forb,-4,,
+versim,NARROW-LEAVED VERVAIN,Verbena simplex,Verbena,simplex,Nt P-Forb,5,,
+verstr,HOARY VERVAIN,Verbena stricta,Verbena,stricta,Nt P-Forb,5,,
+verurt,WHITE VERVAIN,Verbena urticifolia,Verbena,urticifolia,Nt P-Forb,-1,,
+vibace,MAPLE-LEAVED ARROW-WOOD,Viburnum acerifolium,Viburnum,acerifolium,Nt Shrub,5,,
+vitrip,RIVERBANK GRAPE,Vitis riparia,Vitis,riparia,Nt W-Vine,-2,,
+zizaur,GOLDEN ALEXANDERS,Zizia aurea,Zizia,aurea,Nt P-Forb,-1,,
