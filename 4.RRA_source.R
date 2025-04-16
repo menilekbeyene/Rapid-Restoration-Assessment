@@ -3,9 +3,9 @@
 # Date: April 10, 2025
 
 # Run these in sequence 
-source("RRA_IBM.R")
-source("RRA_distCC.R")
-source("LU_Prop.R")
+source("1.RRA_IBM.R")
+source("2.RRA_distCC.R")
+source("3.LU_Prop.R")
 
 ### Or load data from disk
 # RRA_IBM <- read.csv("data/1.raw/2.working/RRA-IBM.csv")
@@ -24,7 +24,7 @@ dt %>% select(rra_id, x, y, timp,
 
 # Create Rapid Restoration Assessment data set
 dt %>% select(rra_id, x, y, site_name_RRA, #Site id info
-              Project.Manager..1,Surveyor.Name.s.., #Surveyors and Management of RRA
+              Surveyo, #Surveyors and Management of RRA
               Date., Assessment.Year., planting_date_RRA, planting_date_IBM, #Date(s) and measure of similarity of planting dates
               Applicable.project.deliverable.categories., Applicable.Project.Deliverable.Categories., #Ecosystem deliverable
               Natural.cover.component.score., Which.planting.types.are.a.part.of.the.deliverable., #Scoring of total natural cover

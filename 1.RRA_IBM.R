@@ -56,7 +56,7 @@ RRA$rra_id <- seq(1:nrow(RRA))
 
 # To help only work with columns of interest
 RRA %>% dplyr::select(rra_id, site_name, x, y, #Site id info
-               Project.Manager..1,Surveyor.Name.s.., #Surveyors and Management of RRA
+               Survey_team, #Surveyors and Management of RRA
                Date.,Assessment.Year.,year, #Date(s)
                Applicable.project.deliverable.categories., Applicable.Project.Deliverable.Categories., #Ecosystem deliverable
                Natural.cover.component.score., Which.planting.types.are.a.part.of.the.deliverable., #Scoring of total natural cover

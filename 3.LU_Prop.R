@@ -32,7 +32,8 @@ if(!is.na(commandArgs(trailingOnly = T)[1])) {
   # full path to site list
   # point_path <- paste0(getwd(),"/data/1.raw/RRA_data.csv")
   # full path to land use raster (set to where raster has been saved)
-  lc_path <- "D:/Cadotte Lab Desktop/Menilek/TRCA/TRCA_LU-2017_epsg4326.tif"
+  # GeoJson URL
+  lc_path <- paste0(getwd(), "/data/1.raw/TRCA_LU-2017_epsg4326.tif")
   # projection of site list csv
   epsg <- as.numeric("4326")
   # buffer size
@@ -66,12 +67,7 @@ options(stringsAsFactors = F)
 ### LOAD DATA ###
 #######################################################################################################
 source("UFRE_distCC.R")
-# load point csv
-# point_data <- read.csv(point_path)
-# # Create unique RRA_id numbers
-# point_data$id <- seq(nrow(point_data))
-# #load site shapefile
-# shape_data <- st_read(shape_path)
+
 # load land cover csv
 lc <- raster(lc_path)
 

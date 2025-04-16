@@ -1,5 +1,5 @@
 #### Distance to Single City Center ####
-
+library(sf)
 
 ### Read set set of points and determine there distance to a central single point
 city_filepath <- paste0(getwd(), "/data/1.raw/city_halls_latlong.csv")
@@ -26,11 +26,13 @@ RRA_distCC <- st_as_sf(points_sel, coords = c("x", "y"), crs = epsg)
 TO_city_hall <- st_as_sf(TO_city_hall, coords = c("x", "y"), crs = epsg)
 
 #Change projection
+st_crs(TO_city_hall)
+st_crs(points_sel)
 
 ###Calculate distances
-points$dist_TO_cityhall <- st_distance(point_sel, TO_city_hall)
-points_sel$dist_TO_cityhall <- st_distance(point_sel, TO_city_hall)
+points$dist_TO_cityhall <- st_distance(RRA_distCC, TO_city_hall)
+points_sel$dist_TO_cityhall <- st_distance(RRA_distCC, TO_city_hall)
 
-rm(city_halls, points, point_sel, TO_city_hall)
+rm(city_halls, points, points_sel, TO_city_hall)
 # # Write distance in meters from city center for each RRA to disk
 # write.csv(points_sel, "/data/1.raw/2.working/RRA_distCC.csv")
